@@ -1,41 +1,107 @@
-Effective Date: 25.08.2025
+Privacy Policy – NowTT
 
-We ("NowTT" or "the App") respect your privacy. This privacy policy explains what information we collect, how we use it, and how we protect it.
+Effective Date: 18.09.2025
+
+We ("NowTT" or "the App") respect your privacy and are committed to protecting your personal data. This Privacy Policy explains what information we collect, how we use it, how long we keep it, and what rights you have under applicable laws (such as GDPR, CCPA, COPPA, and other privacy regulations).
 
 1. Information We Collect
 
-Class Selection: The app allows you to select your school type and class. This selection is stored only on your device and is not shared with us.
+Class Selection
+Your selected school type and class are stored on your device.
+If you enable notifications, your class selection is also stored securely in our database together with your device token, so we can send you the correct timetable updates.
 
-Timetable Data: The app fetches timetable data from the Heinrich-Kleyer-Schule official website. We do not modify this data.
+Timetable Data
+The app retrieves timetable information from the Heinrich-Kleyer-Schule official website. This data is fetched in read-only mode and is not altered by us.
 
-Device Tokens (for Notifications): If you enable notifications, the app uses Firebase Cloud Messaging (FCM) to send updates about timetable changes. For this, an anonymous device token is generated and stored securely in our database.
+Device Tokens (for Notifications)
+When you enable notifications, Firebase Cloud Messaging (Google) generates an anonymous device token. This token, along with your class selection, is stored securely in our database for notification delivery.
+
+Technical Data
+When you use the app, certain technical information may be collected automatically by our servers or third-party services (e.g., Firebase), such as:
+
+IP address
+
+Device model and operating system
+
+Error logs and crash reports
 
 2. How We Use Your Information
 
-To deliver timetable updates and notifications to your device.
+We use the information described above to:
 
-To improve the service and ensure up-to-date information.
+Deliver timetable updates and notifications.
 
-We do not sell, share, or use your data for advertising.
+Ensure service reliability and improve the app.
 
-3. Data Sharing
+Detect, prevent, and resolve technical issues.
 
-We do not share your personal data with third parties.
+We do not sell your data, use it for targeted advertising, or share it with third parties other than our service providers (see Section 5).
 
-Notification delivery is handled by Firebase Cloud Messaging (Google). Please review Google’s Privacy Policy
+3. Legal Basis for Processing (GDPR)
+
+If you are located in the European Economic Area (EEA), we process your data under the following legal bases:
+
+Consent: When you enable notifications.
+
+Legitimate Interest: To provide you with timetable information and maintain service security.
+
+4. Permissions
+
+The app may request the following Android permissions:
+
+INTERNET & Network State – To fetch timetable data from the school’s official website.
+
+POST_NOTIFICATIONS – To send timetable change alerts.
+
+5. SDKs and Data Sharing
+
+Firebase (Google): Used for notifications, backend services, and crash reporting. Firebase may collect IP addresses, crash data, and device information. Please review Google’s Privacy Policy
 .
 
-4. Data Security
+We do not share your personal data with any other third parties.
 
-We take reasonable measures to protect your data (Firebase database with restricted access).
+6. Data Retention
 
-5. Your Rights
+Class selection & device tokens: Retained only as long as notifications are enabled. Deleted automatically if you disable notifications or uninstall the app.
 
-You can disable notifications at any time in the app or in your device settings.
+Technical data (logs, crash reports): Retained for a limited period necessary for troubleshooting and then deleted or anonymized.
 
-You can uninstall the app to remove all local data.
+Timetable data: Not stored permanently by us — it is fetched directly from the school website.
 
-6. Contact
+7. Data Security
 
-If you have questions about this privacy policy, please contact us at:
+We use industry-standard security measures, including a restricted-access Firebase database, to protect your data against unauthorized access, disclosure, alteration, or destruction.
+
+8. Your Rights
+
+Depending on your region (e.g., EU, US, CA, CN, KR), you may have the following rights:
+
+Access: Request a copy of the data we hold about you.
+
+Correction: Request correction of inaccurate information.
+
+Deletion: Request deletion of your personal data.
+
+Withdrawal of Consent: Disable notifications in the app or your device settings at any time.
+
+Portability (GDPR only): Request your data in a machine-readable format.
+
+Non-Discrimination (CCPA): You will not be discriminated against for exercising your privacy rights.
+
+To exercise your rights, please contact us (see Section 10).
+
+9. Children’s Privacy
+
+Our app is rated USK 3 and can therefore be used by children. We designed the app to operate with minimal data collection and without advertising.
+
+We only collect the information necessary to deliver timetable updates (class selection and an anonymous device token for notifications).
+
+We do not use this data to build profiles, track behavior, or show targeted advertising.
+
+Parents or guardians may contact us at any time to request access to, or deletion of, their child’s data.
+
+10. Contact
+
+If you have questions about this Privacy Policy or your data, please contact us at:
+
 📧 onuralpakca36@gmail.com
