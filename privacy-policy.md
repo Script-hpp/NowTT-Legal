@@ -39,7 +39,7 @@ POST_NOTIFICATIONS – To send timetable change alerts
 4.5 Data Controller Information
 Data Controller: NowTT App Development Team
 Contact: onuralpakca36@gmail.com
-Location: [Add your location/jurisdiction]
+Location: Georg-Wolff-Straße 12 60439, Frankfurt am Main
 5. SDKs and Data Sharing
 Firebase (Google): Used for notifications, backend services, and crash reporting. Firebase may collect IP addresses, crash data, and device information. Please review Google's Privacy Policy.
 We do not share your personal data with any other third parties.
